@@ -24,7 +24,7 @@ author:
   avatar: "kaixinkun.png"
   name: "Yifan Zhang"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "向死而生"
   location: "Shenzhen/Guangdong"
   employer: "UCAS"
   uri: # URL
@@ -269,7 +269,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
