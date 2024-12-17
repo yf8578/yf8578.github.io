@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Your Name / Site Title"
+title: "Zhang's space"
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar: "kaixinkun.png"
   name: "Yifan Zhang"
   pronouns: "he/him" # example: "she/her"
-  bio: "志之所趋 无远弗届 穷山距海 不能限也"
+  bio: "志之所趋，无远弗届，穷山距海，不能限也。"
   location: "Earth"
   employer: "University of Chinese Academy of Sciences"
   uri: # URL
