@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-个人简介
+Hello World!
 ========
 Hello, I am Yifan Zhang, currently pursuing a Master's degree at the University of Chinese Academy of Sciences.  
 My research areas include:  
