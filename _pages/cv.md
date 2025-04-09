@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.S. in Biomedicin, UCAS, 2023 -- 2026 (expected)
+* B.S. in Bioinformatics, HNAU, 2019 -- 2023
 
 Work experience
 ======
@@ -34,12 +34,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * R
+  * Shell/Bash
+* Computing Environments
+  * Linux System Administration
+  * Server Cluster Usage
+* Bioinformatics Analysis
+  * WDL Workflow Development & Deployment
+  * High-throughput Data Processing
+  * Biological Data Visualization
+* learning......
 
 Publications
 ======
