@@ -45,7 +45,7 @@ Skills
   * WDL Workflow Development & Deployment
   * High-throughput Data Processing
   * Biological Data Visualization
-* learning......
+* Learning......
 
 Publications
 ======
