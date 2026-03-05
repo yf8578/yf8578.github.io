@@ -12,7 +12,7 @@ tags:
 
 # https://mp.weixin.qq.com/s/Vw0o0Im8Z9RE0bXsrnByFw
 
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/zd9Yq54C2EE8yoVq2xXVpcv8cvUCicK9sAiaa59lrHmvic0hqXtenrtib9JMnZoSwtU9QksZKn3oL9FBcicX3lDPTRQ/0?wx_fmt=jpeg)
+![cover_image](/images/blog/b736879e3c846fdc78e31b5ff68a171a.jpg)
 
 # 【分析】850k甲基化数据分析-meffil
 

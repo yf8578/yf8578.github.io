@@ -10,7 +10,7 @@ tags:
 
 # https://mp.weixin.qq.com/s/3S14HI845LhahnNGO3p8sA
 
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/zd9Yq54C2EEeDWSaRt9uFxRGuklbUU9nBcv7AAYvVaMWjlTGbqJociaSaflz1RcZTf8KVd8Jnr3tEkTdic068CTQ/0?wx_fmt=jpeg)
+![cover_image](/images/blog/70c223f2f02c42b680c0e4f1599b02f6.jpg)
 
 # RNA-seq 上游 | 从FASTQ到表达矩阵
 

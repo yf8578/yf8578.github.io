@@ -11,7 +11,7 @@ tags:
 
 # https://mp.weixin.qq.com/s/IEU3OaQBIuaBPkETY_BLqg
 
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/zd9Yq54C2EHfEjXDkYDejf3onLT56D4PEqDNicbBia67jyY9VBRrSicYIicMODN2icI7IrSeOO8l5c8tXSuTIWHgibRg/0?wx_fmt=jpeg)
+![cover_image](/images/blog/671f0585c7f525bf1114920067422653.jpg)
 
 # 【文献】EWAS知多少
 
