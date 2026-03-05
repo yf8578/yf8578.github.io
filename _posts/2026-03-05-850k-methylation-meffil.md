@@ -1,8 +1,8 @@
 ---
 title: "【分析】850k甲基化数据分析-meffil"
 date: 2026-03-05
-permalink: /posts/2026/03/分析850k甲基化数据分析-meffil/
-excerpt: '本文详细介绍了使用 meffil R包进行 850K 甲基化芯片（EWAS）数据的上游处理流程，包括原始 IDAT 文件的读取、细胞比例评估、质量控制（QC）与不合格样本过滤、探针标准化以及最终的表观基因组关联分析模型构建。'
+permalink: /posts/2026/03/850k-methylation-meffil/
+excerpt: 本文详细介绍了使用 meffil R包进行 850K 甲基化芯片（EWAS）数据的上游处理流程，包括原始 IDAT 文件的读取、细胞比例评估、质量控制（QC）与不合格样本过滤、探针标准化以及最终的表观基因组关联分析模型构建。
 tags:
   - Bioinformatics
   - Methylation
@@ -12,11 +12,9 @@ tags:
 
 # https://mp.weixin.qq.com/s/Vw0o0Im8Z9RE0bXsrnByFw
 
-![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/zd9Yq54C2EE8yoVq2xXVpcv8cvUCicK9sAiaa59lrHmvic0hqXtenrtib9JMnZoSwtU9QksZKn3oL9FBcicX3lDPTRQ/0?wx_fmt=jpeg)
+![cover_image](/images/blog/b736879e3c846fdc78e31b5ff68a171a.jpg)
 
 # 【分析】850k甲基化数据分析-meffil
-
-
 
  
 
@@ -28,11 +26,7 @@ tags:
 
 后来看了一篇文章做的MWAS，里面用的是meffil做的，能从原始数据开始处理，生成质检质控报告等，对于计算的MWAS结果再使用bacon进行矫正，后面又使用methylGSA去做GO和KEGG富集，有基因组数据还做了meQTL......
 
-![Feifei Cheng et al. Cell Discovery, 2025]()
-
 自己也在公众号搜索过，大多数都是ChAMP还有minfi，基本上没有meffil的分析流程。其实这个meffil用起来也挺方便的，内置数据集能够估算免疫细胞比例，检测、矫正混杂因素，做EWAS分析。
-
-![meffil 相关信息（https://doi.org/10.1093/bioinformatics/bty476）]()
 
 **作者也贴心写了很详细的教程，https://github.com/perishky/meffil/wiki**
 
@@ -68,8 +62,6 @@ R CMD INSTALL --configure-args="--disable-threading" preprocessCore_1.39.1.tar
 # meffil分析流程
 
 这个图也是对meffil功能的简单介绍了，还是比较全面的。
-
-![meffil Workflo（来源：meffil文章）]()
 
 ## 原始数据读入
 
@@ -181,11 +173,7 @@ save(qc.objects,file="qc.objects.clean.Robj")
 
 在我的数据中显示有几个样本预测性别和收集的表型中性别不符，可以输出不和个样本名进行检查。
 
-
-
 下图为qc报告中检测性别的图，可以看到有三个红点，就是我那三个样本性别有误的样本。
-
-
 
 ## 标准化
 
@@ -311,10 +299,4 @@ meffil.ewas.report(ewas.summary, output.file=paste(report_file,".ewas.report.ht
 ```
 
  
-
-
-
-
-
----
 
