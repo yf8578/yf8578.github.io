@@ -2,6 +2,7 @@
 title: "【分析】850k甲基化数据分析-meffil"
 date: 2026-03-05
 permalink: /posts/2026/03/分析850k甲基化数据分析-meffil/
+excerpt: 本文详细介绍了使用 meffil R包进行 850K 甲基化芯片（EWAS）数据的上游处理流程，包括原始 IDAT 文件的读取、细胞比例评估、质量控制（QC）与不合格样本过滤、探针标准化以及最终的表观基因组关联分析模型构建。
 tags:
   - Bioinformatics
   - Methylation
@@ -299,6 +300,7 @@ meffil.ewas.report(ewas.summary, output.file=paste(report_file,".ewas.report.ht
 
 微信扫一扫可打开此内容，  
 使用完整服务
+excerpt: 本文详细介绍了使用 meffil R包进行 850K 甲基化芯片（EWAS）数据的上游处理流程，包括原始 IDAT 文件的读取、细胞比例评估、质量控制（QC）与不合格样本过滤、探针标准化以及最终的表观基因组关联分析模型构建。
 
 ---
 
