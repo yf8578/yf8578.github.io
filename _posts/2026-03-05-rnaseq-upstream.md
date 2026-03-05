@@ -1,11 +1,10 @@
 ---
-title: "【分析】WGCNA分析"
+title: "RNA-seq 上游 | 从FASTQ到表达矩阵"
 date: 2026-03-05
-permalink: /posts/2026/03/分析WGCNA分析/
+permalink: /posts/2026/03/RNA-seq-上游---从FASTQ到表达矩阵/
 tags:
   - Bioinformatics
-  - WGCNA
-  - R
+  - RNA-seq
 ---
 
 # https://mp.weixin.qq.com/s/3S14HI845LhahnNGO3p8sA
