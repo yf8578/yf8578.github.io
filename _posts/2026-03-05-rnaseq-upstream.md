@@ -8,6 +8,7 @@ tags:
   - RNA-seq
 ---
 
+
 # https://mp.weixin.qq.com/s/3S14HI845LhahnNGO3p8sA
 
 ![cover_image](https://mmbiz.qpic.cn/mmbiz_jpg/zd9Yq54C2EEeDWSaRt9uFxRGuklbUU9nBcv7AAYvVaMWjlTGbqJociaSaflz1RcZTf8KVd8Jnr3tEkTdic068CTQ/0?wx_fmt=jpeg)
@@ -212,7 +213,3 @@ rm $outdir_step3_hisat2/${id}_accepted_hits.sam $outdir_step3_hisat2/${id}_accep
 
 微信扫一扫可打开此内容，  
 使用完整服务
-excerpt: RNA-seq 基础数据处理全流程指南。从测序下机获取的 FASTQ 文件开始，详细演示了使用 fastp 进行质控与接头切除、使用 HISAT2 过滤 rRNA 并进行基因组比对、最终通过 featureCounts 生成基因表达定量矩阵（TPM）的标准实战代码。
-
----
-
