@@ -9,8 +9,6 @@ tags:
   - EWAS
 ---
 
-# https://mp.weixin.qq.com/s/IEU3OaQBIuaBPkETY_BLqg
-
 ![cover_image](/images/blog/671f0585c7f525bf1114920067422653.jpg)
 
 # 【文献】EWAS知多少

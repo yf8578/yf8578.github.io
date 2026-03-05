@@ -10,8 +10,6 @@ tags:
   - R
 ---
 
-# https://mp.weixin.qq.com/s/Vw0o0Im8Z9RE0bXsrnByFw
-
 ![cover_image](/images/blog/b736879e3c846fdc78e31b5ff68a171a.jpg)
 
 # 【分析】850k甲基化数据分析-meffil

@@ -8,8 +8,6 @@ tags:
   - RNA-seq
 ---
 
-# https://mp.weixin.qq.com/s/3S14HI845LhahnNGO3p8sA
-
 ![cover_image](/images/blog/70c223f2f02c42b680c0e4f1599b02f6.jpg)
 
 # RNA-seq 上游 | 从FASTQ到表达矩阵
