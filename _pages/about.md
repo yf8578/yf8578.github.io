@@ -6,41 +6,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello World!
-========
-Hello, I am Yifan Zhang, currently pursuing a Master's degree at the University of Chinese Academy of Sciences.  
-My research areas include:  
-- Genomics  
-- Transcriptomics  
-- Epigenetics  
-- Bioinformatics Tool Development  
 
-Through interdisciplinary collaboration, I hope to contribute to advancing data analysis techniques and innovative applications in the biomedical field.
+👋 Welcome to my academic homepage!
 
+I am **Yifan Zhang**, a Ph.D. candidate in Genomics at the **University of Chinese Academy of Sciences (UCAS)**. My research sits at the intersection of biology and computer science, focusing on uncovering the genetic basis of complex traits and developing efficient tools to make sense of large-scale multi-omics data.
 
-Research Interests
-========
+Through interdisciplinary collaboration, I aim to contribute to advancing data analysis techniques and driving innovative applications in precision medicine and biomedical research.
 
-My research primarily focuses on the following areas: 
+---
 
-QTL Analysis
---------
-I study how quantitative trait loci (QTL) analysis can reveal the relationship between genotypes and phenotypes, particularly how genetic variations affect complex disease susceptibility in different populations.
+## 🔬 Research Interests
 
+My work primarily spans the following interconnected areas:
 
-Methylation Analysis
-------
-DNA methylation, as an epigenetic modification, can influence gene expression and play an important role in diseases. I focus on how methylation is involved in the early diagnosis and prognosis of diseases like cancer.
+### 🧬 Quantitative Trait Loci (QTL) Analysis
+Investigating how genetic variations influence complex phenotypes. I study the relationships between genotypes and disease susceptibility across different populations, helping to unravel the genetic architecture of human health.
 
+### 🧩 Epigenomics & Methylation Analysis
+DNA methylation plays a crucial role in gene expression regulation without altering the underlying DNA sequence. My research focuses on how these epigenetic modifications serve as vital biomarkers for the early diagnosis and prognosis of diseases, particularly in oncology.
 
-Proteomics QTL Analysis (pQTL)
-------
-Through pQTL analysis, I investigate the relationship between protein expression and genotype, further understanding how genetic regulation impacts protein function.
+### 🧪 Proteomics QTL (pQTL) Analysis
+Moving beyond the transcriptome, I conduct pQTL analysis to bridge the gap between genetic variations and protein expression. This helps in understanding how genetic regulation cascades down to impact ultimate protein functions and molecular pathways.
 
+### 💻 Bioinformatics Tool & Algorithm Development
+Biological data is growing exponentially. I am passionate about developing robust, high-performance algorithms and data processing pipelines to optimize workflows for large-scale genomic and transcriptomic datasets, maximizing analytical precision and computational efficiency.
 
-Data Processing and Algorithm Development 
-------
-I work on developing efficient data processing tools and algorithms to optimize the analysis workflows for large-scale biological datasets, such as genomic and transcriptomic data, improving the precision and efficiency of data analysis.
+---
 
-The road is long and arduous, but I will persist in seeking knowledge in every direction.  
-Let's encourage each other!
+*"The road is long and arduous, but I will persist in seeking knowledge in every direction."*  
+I am always open to discussions, collaborations, and new ideas. Let's explore the frontiers of biology together!
